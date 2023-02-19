@@ -28,4 +28,4 @@ I need help.
 I'll study about how to obfuscate code.
 
 HOW TO USE IT
- - Run main.exe(converted to exe file).
+ - Run main.exe(converted to exe file) on others computer secretly.
