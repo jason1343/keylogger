@@ -25,5 +25,7 @@ But the problem is software keyloggers get caught by computer vaccine very easil
 So.. Is there anybody who know how to avoid vaccine?
 I need help.
 
+I'll study about how to obfuscate code.
+
 HOW TO USE IT
  - Run main.exe(converted to exe file).
